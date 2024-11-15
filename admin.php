@@ -127,7 +127,7 @@
       <div class="container">
         <div class="row text-center">
           <div class="col-sm-12">
-            <p>&copy;copyright 2022 | Kelompok 1 Project RPL</p>
+            <p>&copy;copyright 2022 | Kelompok 1 Project RPL-Malakiano</p>
           </div>
         </div>
       </div>
