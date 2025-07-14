@@ -3,7 +3,7 @@ session_start();
 include "config.php";
    
 
-    $con = mysqli_connect("localhost", "root", "", "simeru");
+    $con = mysqli_connect("localhost", "root", "", "sitegub");
 
 
     $no = $_POST['no'];
